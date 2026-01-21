@@ -1,2 +1,2 @@
 # 1316_project1
-Will's first repository project
+Project for Web Design 1
